@@ -1,0 +1,26 @@
+[
+  {
+    "remote" : "carbon",
+    "revision" : "cr-5.1",
+    "repository": "CarbonROM/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common"
+  },
+  {
+    "remote" : "carbon",
+    "revision" : "cr-5.1",
+    "repository": "CarbonROM/android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common"
+  },
+  {
+    "remote" : "carbon",
+    "revision" : "cr-5.1",
+    "repository": "CarbonROM/android_kernel_samsung_d2",
+    "target_path": "kernel/samsung/d2"
+  },
+  {
+    "remote" : "lineage",
+    "revision" : "cm-14.1",
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport"
+  }
+]
