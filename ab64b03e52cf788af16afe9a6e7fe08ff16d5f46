@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher C249223A 1495134935 -0500\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_samsung_d2-common\nnonce 1495135465-3B0311A9B7A49DDCB9FD8A88C7D80897C0094EEE\n\n0000000000000000000000000000000000000000 ab64b03e52cf788af16afe9a6e7fe08ff16d5f46 refs/for/cr-5.1\n-----BEGIN PGP SIGNATURE-----\n\niQEcBAABAgAGBQJZHfLXAAoJEJ8pB5zCSSI6pAkH/2l+ClZ0m7PcjWY5QvYw4EgV\nWyiFcvXMWsDKUvxTfZmOWzhPlaW1LqNFbz1lQ9Oxu8R1/WDr5FWZr8V5L36jeRng\neoNAZrzpiQiTLvLVx7FK/kmlQ3A32/X8V7qbn2jcvtgw46kkHbMfbkQvOey6YPIL\nIET65VmBKVLfnSYnkXS/3+iheJtfeQEQLVW0rv28HM5HBs0JAZ9GYlzOo0h3vd6G\n0+yO2oIxRb+UFeiXTzr+8aUgLdU+1vKaf5JxppcIHJiRF7ORx4z92f2zezzxu5xI\nWy+ppYNgpAfjVHJgjYSamwE26zOndfg1pbeRhdC/jyY4ItiNZXl1B5/cqLr7xE4\u003d\n\u003d5oKf\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
