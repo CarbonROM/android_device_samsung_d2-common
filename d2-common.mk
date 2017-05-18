@@ -17,3 +17,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit from d2-common device
 $(call inherit-product, device/samsung/d2-common/device.mk)
+
+# Set maintainer
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.carbon.maintainer="frap129"
